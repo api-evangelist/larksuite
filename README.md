@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lark is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.larksuite.com/
+Lark offers a productivity superapp that combines team chat, video meetings, document editing, workflow automation, and knowledge bases into a single platform. It is designed for organizations of all sizes that need integrated collaboration tools for internal teams, frontline operations, and global work across regions and languages.
+
+**Areas:** Team Collaboration · Productivity · No-code Workflow · Global Collaboration · Enterprise Software
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.larksuite.com/)
+- [Documentation](https://developer.larksuite.com/)
+- [GitHub](https://github.com/larksuite)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/larksuite/](https://apis.io/providers/larksuite/).
